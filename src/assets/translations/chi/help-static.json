@@ -1,0 +1,14 @@
+{
+  "howToScanGuideTitle": "扫描表格QR码",
+  "howToScanGuideDescription": "抓住一个空表并扫描表QR或将表代码与Next应用程序一起使用",
+
+  "chooseMenuGuideTitle": "选择菜单和订单",
+  "chooseMenuguideDescription": "您可以按类别订购菜肴",
+
+  "foodServingGuideTitle": "享受你的食物",
+  "foodServingGuideDescription": "准备就绪后，请享用美食，并通过该应用进行付款",
+
+  "next": "到下一页",
+  "skip": "Skip",
+  "getStarted": "开始吧"
+}

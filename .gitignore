@@ -1,0 +1,7 @@
+
+/src/utils/themes.js
+.vscode/launch.json
+node_modules
+/debug.log
+/build
+.DS_Store

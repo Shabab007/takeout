@@ -1,0 +1,14 @@
+{
+  "howToScanGuideTitle": "テーブル上のQRコードをスキャンしてください",
+  "howToScanGuideDescription": "空のテーブルでテーブルのQRをスキャンするか、アプリ上でテーブルコードを使用します",
+
+  "chooseMenuGuideTitle": "メニューを選択して注文をします",
+  "chooseMenuguideDescription": "カテゴリー別に料理を注文することができます",
+
+  "foodServingGuideTitle": "ごゆっくり食事をお楽しみください",
+  "foodServingGuideDescription": "お食事が終わりまりましたら、スマホから決済することができます",
+
+  "next": "次へ",
+  "skip": "スキップ",
+  "getStarted": "続ける"
+}

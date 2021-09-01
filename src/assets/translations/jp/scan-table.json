@@ -1,0 +1,28 @@
+{
+  "greeting": "こんにちは、 ",
+  "Guest": "ゲスト 様",
+  "goodMorningTitle": "おはようございます",
+  "goodEveningTitle": "こんばんは",
+  "goodAfterNoonTitle": "こんにちは",
+
+  "description": "印刷されたQRコードをスキャンして注文を開始してください。",
+
+  "btnScanCode": "QRコードをスキャン",
+  "btnManualCode": "テーブルコードを入力してください",
+
+  "backToScanText": "テーブルコード",
+  "manuallyTableCodeTitle": "テーブルコードを入力してください",
+  "manuallyTableCodeDescription": "カードに書かれている6桁のテーブルコードをテーブルに入力して続行してください",
+  "manuallyTableCodeBtnText": "続ける",
+  "manuallyTableCodeInputPlaceHolderText": "テーブルコード",
+  "manuallyTableCodeNotNow": "今は行わない",
+  "tableNotFoundTitle": "テーブルデータを取得できませんでした",
+  "tableNotFoundDescription": "テーブルコードをもう一度スキャンするか、手動でテーブルコードを入力してください",
+
+  "tableOccupiedMessage": "テーブルが利用中です。しばらくしてからもう一度お試しください。",
+  "tableNotFoundMessage": "テーブルが見つかりません。",
+  "wrongTableCodeMessage": "テーブルコードが間違っています。",
+  "tableSessionFailGenericMsg": "テーブルにログインできませんでした。ホールスタッフを呼んでください。",
+  "tableCodeNotFoundInUrlMsg": "お使いのデバイスを利用して、QRコードをスキャンしてください。",
+  "netWorkErrorMessage": "通信エラー"
+}

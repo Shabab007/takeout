@@ -1,0 +1,52 @@
+.call-received-by-staff {
+  animation: call-recieved 6000ms 1;
+}
+
+@keyframes call-recieved {
+  0% {
+    background-color: #21ba45;
+  }
+  10% {
+    background-color: #21ba45;
+  }
+  20% {
+    background-color: #21ba45;
+  }
+  30% {
+    background-color: #21ba45;
+  }
+  40% {
+    background-color: #18e66c;
+  }
+  50% {
+    background-color: #79eba8;
+  }
+  60% {
+    background-color: #91ecb6;
+  }
+  70% {
+    background-color: #a9eec5;
+  }
+  80% {
+    background-color: #c1efd4;
+  }
+  90% {
+    background-color: #d9f0e3;
+  }
+  100% {
+    background-color: #f2f2f2;
+  }
+}
+
+.package-order-reminder {
+  animation: package-menu-reminder 1000ms infinite;
+}
+
+@keyframes package-menu-reminder {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.1;
+  }
+}

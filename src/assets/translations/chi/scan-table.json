@@ -1,0 +1,28 @@
+{
+  "greeting": "你好，",
+  "Guest": "客人",
+  "goodMorningTitle": "早上好",
+  "goodEveningTitle": "晚上好",
+  "goodAfterNoonTitle": "下午好",
+
+  "description": "请扫描打印的QR码以开始订购",
+
+  "btnScanCode": "扫描二维码",
+  "btnManualCode": "手动输入表格代码",
+
+  "backToScanText": "表格代码",
+  "manuallyTableCodeTitle": "输入表格代码",
+  "manuallyTableCodeDescription": "请在桌上输入卡上写的6位数字表代码以继续",
+  "manuallyTableCodeBtnText": "继续",
+  "manuallyTableCodeInputPlaceHolderText": "表格代码",
+  "manuallyTableCodeNotNow": "现在不要",
+  "tableNotFoundTitle": "无法获取表格数据",
+  "tableNotFoundDescription": "请尝试再次扫描表格代码，如果无效，请手动输入表格代码",
+
+  "tableOccupiedMessage": "桌子已被占用，请稍后再试",
+  "tableNotFoundMessage": "找不到表格",
+  "wrongTableCodeMessage": "表代码错误",
+  "tableSessionFailGenericMsg": "我无法登录到桌子, 请告诉工作人员",
+  "tableCodeNotFoundInUrlMsg": "使用智能手机扫描桌子上的QR码",
+  "netWorkErrorMessage": "网络错误"
+}

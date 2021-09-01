@@ -1,0 +1,6 @@
+export const GET_TOP_MENU = 'GET_TOP_MENU';
+export const GET_FOOD_CATEGORY = 'GET_FOOD_CATEGORY';
+export const GET_FOOD_ITEMS = 'GET_FOOD_ITEMS';
+export const GET_FOOD_ITEM = 'GET_FOOD_ITEM';
+export const SET_FOOD_ITEM = 'SET_FOOD_ITEM';
+export const SET_CATEGORY_INDEX = 'SET_CATEGORY_INDEX';

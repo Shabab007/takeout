@@ -1,0 +1,28 @@
+{
+  "greeting": "Hello, ",
+  "Guest": "Guest",
+  "goodMorningTitle": "Good Morning",
+  "goodEveningTitle": "Good Evening",
+  "goodAfterNoonTitle": "Good Afternoon",
+
+  "description": "Please scan the printed QR code to start ordering.",
+
+  "btnScanCode": "Scan QR code",
+  "btnManualCode": "Enter table code Manually",
+
+  "backToScanText": "Table Code",
+  "manuallyTableCodeTitle": "Enter Table Code",
+  "manuallyTableCodeDescription": "Please enter the 6 digit Table code written on the card at the table to continue",
+  "manuallyTableCodeBtnText": "Continue",
+  "manuallyTableCodeInputPlaceHolderText": "Table code",
+  "manuallyTableCodeNotNow": "Not now",
+  "tableNotFoundTitle": "Couldn’t Get Table Data",
+  "tableNotFoundDescription": "Please try scanning the Table code again or enter the table code manually if that doesn’t work",
+
+  "tableOccupiedMessage": "Table occupied, please call hall staff or try again later.",
+  "tableNotFoundMessage": "Table not found.",
+  "wrongTableCodeMessage": "Wrong table code",
+  "tableSessionFailGenericMsg": "Could not get table session! Please call hall staff.",
+  "tableCodeNotFoundInUrlMsg": "Please scan QR code from the table using your device.",
+  "netWorkErrorMessage": "Network Error"
+}

@@ -1,0 +1,28 @@
+{
+  "greeting": "안녕하세요,",
+  "Guest": "게스트 님",
+  "goodMorningTitle": "안녕하세요",
+  "goodEveningTitle": "안녕하세요",
+  "goodAfterNoonTitle": "안녕하세요",
+
+  "description": "주문을 시작하려면 인쇄 된 QR 코드를 스캔하십시오.",
+
+  "btnScanCode": "QR 코드를 스캔",
+  "btnManualCode": "테이블 코드를 수동으로 입력",
+
+  "backToScanText": "테이블 코드",
+  "manuallyTableCodeTitle": "테이블 코드를 입력하십시오",
+  "manuallyTableCodeDescription": "계속하려면 카드에 적힌 6 자리 테이블 코드를 테이블에 입력하세요.",
+  "manuallyTableCodeBtnText": "계속",
+  "manuallyTableCodeInputPlaceHolderText": "테이블 코드",
+  "manuallyTableCodeNotNow": "지금은 아니야",
+  "tableNotFoundTitle": "테이블 데이터를 가져올 수 없습니다",
+  "tableNotFoundDescription": "테이블 코드를 다시 스캔하거나 수동으로 테이블 코드를 입력하십시오",
+
+  "tableOccupiedMessage": "테이블은 이미 사용되고 있습니다. 잠시 후 다시 시도해주세요.",
+  "tableNotFoundMessage": "테이블을 찾을 수 없습니다.",
+  "wrongTableCodeMessage": "잘못된 테이블 코드",
+  "tableSessionFailGenericMsg": "테이블에 로그인 할 수 없습니다. 홀 직원을 불러주세요.",
+  "tableCodeNotFoundInUrlMsg": "스마트 폰을 사용하여 테이블의 QR 코드를 스캔하십시오.",
+  "netWorkErrorMessage": "네트워크 오류"
+}
