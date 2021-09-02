@@ -48,20 +48,20 @@ function NxtGuide() {
   const history = useHistory();
 
   const guideScreens = [
+    // {
+    //   id: 0,
+    //   image: guideImages.howToScanGuideImage,
+    //   title: t('static:howToScanGuideTitle'),
+    //   description: t('static:howToScanGuideDescription'),
+    // },
     {
       id: 0,
-      image: guideImages.howToScanGuideImage,
-      title: t('static:howToScanGuideTitle'),
-      description: t('static:howToScanGuideDescription'),
-    },
-    {
-      id: 1,
       image: guideImages.chooseMenuGuideImage,
       title: t('static:chooseMenuGuideTitle'),
       description: t('static:chooseMenuguideDescription'),
     },
     {
-      id: 2,
+      id: 1,
       image: guideImages.foodServingGuideImage,
       title: t('static:foodServingGuideTitle'),
       description: t('static:foodServingGuideDescription'),
@@ -75,7 +75,7 @@ function NxtGuide() {
   }
 
   function redirectToTempScan() {
-    history.push('/scan-qr-code');
+    history.push(`/recommended`);
   }
 
   return (

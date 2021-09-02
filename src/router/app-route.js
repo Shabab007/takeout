@@ -91,7 +91,7 @@ export const AppRoute = () => (
 
         <SessionAndTableNbrProtectedRoute exact path="/restaurant-home" component={NxtRestaurantHome} />
 
-        <SessionAndTableNbrProtectedRoute exact path="/recommended" component={NxtRecommendedMenu} />
+        <Route exact path="/recommended" component={NxtRecommendedMenu} />
 
 
         <SessionAndTableNbrProtectedRoute exact path="/menus" component={NxtMenuHome} />
@@ -102,7 +102,7 @@ export const AppRoute = () => (
 
         <SessionAndTableNbrProtectedRoute exact path="/table-home" component={TableHome} />
 
-        <SessionAndTableNbrProtectedRoute exact path="/guest-configuration" component={GuestConfiguration} />
+        <Route exact path="/guest-configuration" component={GuestConfiguration} />
 
         <SessionAndTableNbrProtectedRoute exact path="/food-item-details" component={NxtFoodItemDetail} />
 
@@ -141,7 +141,7 @@ export const AppRoute = () => (
         />
 
         <Route path="*">
-          <Redirect to="/home/for-table-book/" />
+          <Redirect to="/language-selection" />
         </Route>
       </Switch>
     </ScrollToTop>

@@ -13,7 +13,7 @@ function SessionAndTableNbrProtectedRoute({ component: Component, ...rest }) {
         session.data && session.data.token && securityCode.data && securityCode.data.tableBookingNbr ? (
           <Component {...props} />
         ) : (
-          <Redirect to={{ pathname: '/home/for-table-book/' }} />
+          <Redirect to={{ pathname: '/recommended' }} />
         )
       }
     />

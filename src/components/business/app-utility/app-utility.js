@@ -73,9 +73,9 @@ const AppUtility = ({
 
   var companyId, branchId, restaurantTableId, menus; // menusStatus
   try {
-    companyId = restaurantTable.data.company.id;
-    branchId = restaurantTable.data.branch.id;
-    restaurantTableId = restaurantTable.data.id;
+    companyId = restaurantTable && restaurantTable.data && restaurantTable.data.company.id;
+    branchId = restaurantTable && restaurantTable.data && restaurantTable.data.branch.id;
+    restaurantTableId = restaurantTable && restaurantTable.data && restaurantTable.data.id;
     const { menus: menusInState } = menuState;
     const { data } = menusInState; // status
     menus = data;
